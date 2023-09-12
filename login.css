@@ -1,0 +1,23 @@
+form{
+	text-align: center;
+	margin: auto;
+	margin-top: 15%;
+	font-size: 30px;
+	color: white;
+	background-color: rgba(0,0,0,0.9);
+	text-shadow: 2px 2px 7px #111111;
+	border-radius: 10px;
+	border: 4px solid white;
+	width: 30%;
+}
+
+body{
+	background-image: url(https://www.yardbarker.com/media/0/c/0c9f4c04d3c51e03110ee78ab6b1391f2a692de8/thumb_16x9/10296778.jpg?v=1);
+	background-size: 100%;
+	font-family: sans-serif;
+}
+
+.enviar{
+	width: 20%;
+	height: 10%;
+}

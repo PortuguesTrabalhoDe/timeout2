@@ -1,0 +1,122 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	background: url(https://sportshub.cbsistatic.com/i/r/2023/04/20/c465e8cc-7e68-4ac1-a683-85b8579323cb/thumbnail/1200x675/95f24ab245cf8c0348ba8992030ade4a/nfl-field-g.jpg);
+	background-size: 100%;
+	background-position: top;
+	font-family: Arial;
+}
+
+ul{
+	list-style: none;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+	margin-left: 15px;
+}
+
+#nav1{
+	width: 50%;
+	float: left;
+}
+
+ul#ul-afc{
+	background-color: black;
+	width: 450px;
+	margin-top: 20px;
+	margin-left: 120px;
+	border: 4px solid white;
+}
+
+.afc{
+	font-size: 30px;
+	line-height: 50px;
+}
+
+ul li ul li{
+	background-color: black;
+}
+
+a img:hover{
+	background-color: rgba(255,255,255,.3);
+}
+
+.afc-norte, .afc-sul, .afc-leste, .afc-oeste{
+	display: none;
+}
+
+.afc-logo {
+	margin-top: 80px;
+	margin-left: 275px;
+}
+
+ul#ul-nfc{
+	background-color: black;
+	width: 450px;
+	margin-top: 20px;
+	margin-left: 320px;
+	border: 4px solid white;
+}
+
+.nfc{
+	font-size: 30px;
+	line-height: 50px;
+}
+
+ul li ul li{
+	background-color: black;
+}
+
+a img:hover{
+	background-color: rgba(255,255,255,.3);
+}
+
+.nfc-norte, .nfc-sul, .nfc-leste, .nfc-oeste{
+	display: none;
+}
+
+.nfc-logo {
+	margin-top: 60px;
+	margin-left: 435px;
+}
+
+#nav2{
+	width: 50%;
+	float: right;
+}
+
+.banner{
+	width: 100%;
+}
+
+a .login{
+	width: 15%;
+	position: absolute;
+	margin-left: 520px;
+	margin-top: -130px;
+}
+
+main{
+	overflow: auto;
+	border: 1px solid white:
+}
+
+footer{
+	color: white;
+	position: fixed;
+	font-size: 20px;
+	bottom: 0px;
+	background-color: black;
+	width: 100%;
+	text-align: center;
+	height: 4%;
+}
+	
+	
+	
+	
